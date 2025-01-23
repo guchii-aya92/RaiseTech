@@ -6,7 +6,7 @@
 APサーバー＝Puma  
 バージョン＝Puma version: 6.4.2 (ruby 3.2.3-p157)  
 
-![1-1 ApP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/1-1%20ApP.PNG)  
+![images/1-1 ApP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/1-1%20ApP.PNG)  
 
 
 ### APサーバーの終了後アクセス可能か  
@@ -14,9 +14,9 @@ Ctrl-c で終了したらアクセスできず
 画面に「Oops No application seems to be running here!」の文字とたぶんこのエラーだと思うから試してみてねの環境設定等が表示されていた  
 （もしかしてAPサーバー=pumaだからそのためのpuma起動・停止のコマンドがある？）
 
-![1-2 stop AP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/1-2%20stop%20AP.PNG)
+![images/1-2 stop AP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/1-2%20stop%20AP.PNG)
 
-![1-2 stop AP2](https://github.com/guchii-aya92/RaiseTech/blob/lecture03/1-2%20stop%20AP2.PNG)  
+![images/1-2 stop AP2](https://github.com/guchii-aya92/RaiseTech/blob/lecture03/1-2%20stop%20AP2.PNG)  
 
 
 ## 2.DBサーバーについて調べる
@@ -25,24 +25,24 @@ Ctrl-c で終了したらアクセスできず
 DBサーバー（DBエンジン）=MySQL  
 バージョン= 8.4.3  
 （rails db でrailes内のデータベースが何か？を確認）  
-![2-1 check DB.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-1%20check%20DB.PNG)
+![images/2-1 check DB.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-1%20check%20DB.PNG)
 
 
 ### DBサーバーを終了後アクセス可能か  
 inactive(dead)を確認してからアクセスしてみたができなかった  
 画面に表示された文言はAPサーバー終了後と同様  
-![2-2 stop DB.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-2%20stop%20DB.PNG)  
+![images/2-2 stop DB.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-2%20stop%20DB.PNG)  
 
-![2-2 stop DB2.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-2%20stop%20DB2.PNG)  
+![images/2-2 stop DB2.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/2-2%20stop%20DB2.PNG)  
 
 ### Railsの構成管理ツールの名前はなんでしたか  
 gem
 
 
 ## デプロイ成功  
-![0-1 done AP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/0-1%20done%20AP.PNG)  
+![images/0-1 done AP.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/0-1%20done%20AP.PNG)  
 
-![0-2 done app.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/0-2%20done%20app.PNG)  
+![images/0-2 done app.PNG](https://github.com/guchii-aya92/RaiseTech/blob/c2e0f474cd4a1dcdb47cb8c6dd272e26b8e8a1e3/0-2%20done%20app.PNG)  
 
 
 ## 課題の感想
