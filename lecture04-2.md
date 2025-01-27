@@ -66,4 +66,36 @@ RDSを作成中の画面をスクショしました。
 ![セキュリティグループ証左instance](images/4-9security-instances.PNG)
 
 
+### 追加の各種証左です(2025/01/27)
+追加で提出依頼のあった証左です。
+
+
+VPCのリソースマップ
+![VPCのリソースマップ証左](images/4-10VPCresourcemap.PNG)
+
+
+EC2詳細画面
+![EC2詳細画面証左](images/4-11EC2detail.PNG)
+![EC2詳細画面証左](images/4-12EC2detail.PNG)
+
+
+RDSの接続とセキュリティの画面
+![RDSの接続とセキュリティ](images/4-13RDSdetail.PNG)
+![RDSの接続とセキュリティ](images/4-14RDSdetail.PNG)
+
+
+サブネットグループ詳細画面
+![subnet1apublic](images/4-15subnet1apiblic.PNG)
+![subnet1aprivate](images/4-16subnet1aprivate.PNG)
+![subnet1cpublic](images/4-17subnet1cpiblic.PNG)
+![subnet1cprivate](images/4-17subnet1cprivate.PNG)
+
+
+セキュリティグループのインバウンドルールとアウトバウンドルール
+![inbound](images/4-18securitygruop-in.PNG)
+![outbound](images/4-19securitygruop-out.PNG)
+
+認識している構成を図にしてみました
+![認識](images/4-0create.PNG)
+
 
