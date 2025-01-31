@@ -52,7 +52,7 @@ ap-northeast-1c-private
 
 
 
-## EC2の作成
+## 3.EC2の作成
 EC2の画面をスクショしました。作成時のものとコンソール画面です。<br>
 使用したVPCは上記で設定したものです。<br>
 セキュリティグループは新規で作成しました。
@@ -71,17 +71,15 @@ EC2の画面をスクショしました。作成時のものとコンソール�
 
 セキュリティグループ・EC2インスタンスへアタッチ
 ![セキュリティグループtoinstance](images/4-9security-instances.PNG)
-`4-20.PNG`
-![セキュリティグループtoinstance](images/4-20securitygruoptoinstance.PNG)
+![セキュリティグループtoinstance](images/4-20securitygruoptoinstance.png)
   
-## RDSの作成
+## 4.RDSの作成
 RDSを作成中の画面をスクショしました。
 またコンソール画面も乗せます。
 
 ![RDS証左作成中](images/4-5RDS.PNG)
 
 ![RDS証左コンソール画面](images/4-13RDSdetail.PNG)
-  上書きした画像になっているか？
 ![RDS証左コンソール画面](images/4-14RDSdetail.PNG)
 
 
