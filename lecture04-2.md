@@ -66,11 +66,13 @@ EC2の画面をスクショしました。作成時のものとコンソール�
 
 作成したセキュリティグループ・EC2
 ![セキュリティグループ証左EC2](images/4-7security-EC2.png)
-![inbound](images/4-18securitygruop-in.PNG)
+ - インバウンドルールのソースを変更しました。
+![inbound](images/4-18securitygruop-in.png)
 ![outbound](images/4-19securitygruop-out.PNG)
 
 セキュリティグループ・EC2インスタンスへアタッチ
 ![セキュリティグループtoinstance](images/4-9security-instances.PNG)
+ - アウトバウンドルールのソースが見えていなかったのでわかるようにしました。
 ![セキュリティグループtoinstance](images/4-20securitygruoptoinstance.png)
   
 ## 4.RDSの作成
@@ -86,6 +88,7 @@ RDSを作成中の画面をスクショしました。
 ### セキュリティグループの作成
 database-1へアタッチ
 ![セキュリティグループ証左RDS](images/4-8security-database-1.PNG)
+ - インバウンドルールのソースが見えていなかったのでわかるようにしました。
 ![RDSインバウンドとアウトバンド](images/4-22securitygrouptodatabase1.PNG)
 	
 認識している構成を図にしてみました
